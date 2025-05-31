@@ -111,7 +111,7 @@ main {
 }
 
 main h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #b99d1d;
   margin-bottom: 1rem;
 }
@@ -157,6 +157,7 @@ main > ul > ul {
 
 main > ul > ul li {
   margin: 0.3rem 0;
+  text-align: center;
 }
 
 main > ul > ul li a {

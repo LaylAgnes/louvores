@@ -47,6 +47,11 @@ body {
 }
 
 /* -------------------- MENUS -------------------- */
+#indice-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 #menu.hidden,
 #indice-menu.hidden {

@@ -48,9 +48,10 @@ body {
 
 /* -------------------- MENUS -------------------- */
 #indice-menu {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centraliza horizontalmente */
+  justify-content: flex-start; /* garante alinhamento no topo */
 }
 
 #menu.hidden,

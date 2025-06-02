@@ -108,6 +108,7 @@ main {
   max-width: 900px;
   margin: auto;
   text-align: center;
+  justify-content: space-between;
 }
 
 main h1 {
